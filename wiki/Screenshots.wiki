@@ -1,6 +1,8 @@
 #summary One-sentence summary of this page.
+#labels Featured
 
 = Here is the screenshot of how it looks by default =
 
-http://code.google.com/p/dconsole/source/browse/trunk/screenshot.png
-http://code.google.com/p/dconsole/source/browse/trunk/screenshot2.png
+[http://dconsole.googlecode.com/svn/trunk/screenshot.jpg]
+
+[http://dconsole.googlecode.com/svn/trunk/screenshot2.png]
