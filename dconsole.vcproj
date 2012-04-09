@@ -213,10 +213,6 @@
 				</File>
 			</Filter>
 		</Filter>
-		<File
-			RelativePath=".\article.txt"
-			>
-		</File>
 	</Files>
 	<Globals>
 	</Globals>
